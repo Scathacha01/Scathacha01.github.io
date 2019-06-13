@@ -4,7 +4,7 @@ $breakpoints: (
   // for smart phone
   'sm': 400px,
   // for tablet
-  'tb': 750px,
+  'tb': 800px,
   // for PC
   'pc': 1200px,
 );
@@ -90,13 +90,13 @@ header {
           border-right: 1px solid #666;
           margin: 0;
           width: calc(100% / 6);
-          &.info,
-          &.link {
-            display: list-item;
-          }
-          &.other {
-            display: none;
-          }
+          // &.info,
+          // &.link {
+          //   display: list-item;
+          // }
+          // &.other {
+          //   display: none;
+          // }
           &:first-child {
             border-left: 1px solid #666;
             margin-left: 0;

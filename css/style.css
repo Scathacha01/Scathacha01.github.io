@@ -32,7 +32,7 @@ header {
       header .global-nav ul li a {
         font-weight: bold;
         display: block; }
-  @media screen and (max-width: 750px) {
+  @media screen and (max-width: 800px) {
     header {
       display: block; }
       header .global-nav ul {
@@ -42,10 +42,6 @@ header {
           border-right: 1px solid #666;
           margin: 0;
           width: calc(100% / 6); }
-          header .global-nav ul li.info, header .global-nav ul li.link {
-            display: list-item; }
-          header .global-nav ul li.other {
-            display: none; }
           header .global-nav ul li:first-child {
             border-left: 1px solid #666;
             margin-left: 0; }
