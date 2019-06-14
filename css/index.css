@@ -41,4 +41,19 @@ body {
         .main .flex-box .main-column .news table tr:last-child td:last-child {
           border: none; }
 
+.main .man,
+.main .woman,
+.main .ensuikai,
+.main .contact {
+  padding-bottom: 20px; }
+@media screen and (max-width: 800px) {
+  .main .man img,
+  .main .woman img {
+    width: 100%; } }
+.main .contact .gothic {
+  font-weight: bold; }
+.main .obog-pubish {
+  padding: 0;
+  line-height: 2; }
+
 /*# sourceMappingURL=index.css.map */

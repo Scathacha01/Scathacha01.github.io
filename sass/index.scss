@@ -20,6 +20,7 @@ body {
   background-image: url("http://titechswimteam.web.fc2.com/back.jpg");
 }
 
+// index.html
 .main {
   background-color: rgba(255, 255, 255, 0.7);
   .page-title {
@@ -76,5 +77,32 @@ body {
         }
       }
     }
+  }
+}
+
+// about.html
+.main {
+  .man,
+  .woman,
+  .ensuikai,
+  .contact {
+    padding-bottom: 20px;
+  }
+  .man,
+  .woman {
+    img {
+      @include mq('tb') {
+        width: 100%;
+      }
+    }
+  }
+  .contact {
+    .gothic {
+      font-weight: bold;
+    }
+  }
+  .obog-pubish {
+    padding: 0;
+    line-height: 2;
   }
 }
