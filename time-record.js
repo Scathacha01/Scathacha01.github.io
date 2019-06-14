@@ -1,4 +1,5 @@
-document.addEventListener("DOMContentLoaded", function() {
+// ページのhashで表示する内容を変える関数
+function likeSPA() {
   var indexItem = document.getElementsByClassName("index");
   // indexクラスを持つ要素がclickされたときに以下の処理をする
   for (var i = 0; i < indexItem.length; i++) {
@@ -24,4 +25,8 @@ document.addEventListener("DOMContentLoaded", function() {
       }, 1);
     });
   }
+}
+
+document.addEventListener("DOMContentLoaded", function() {
+  likeSPA();
 });
