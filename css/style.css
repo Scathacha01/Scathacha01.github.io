@@ -49,13 +49,10 @@ header {
             margin-right: 0; } }
   @media screen and (max-width: 600px) {
     header {
-      display: flex;
-      align-items: stretch; }
-      header .page-title {
-        white-space: nowrap; }
+      position: relative; }
       header .slide-trigger {
         display: block;
-        position: absolute;
+        position: fixed;
         width: 40px;
         right: 30px;
         top: 10px; }
@@ -77,28 +74,29 @@ header {
         header .slide-trigger.slide-nav span:nth-child(3) {
           transform: translateY(-14px) rotate(45deg); }
       header .global-nav {
-        overflow-x: hidden;
         transition: all 0.5s;
-        position: relative;
+        position: fixed;
         opacity: 0;
         visibility: hidden;
-        right: -30px;
-        top: 100%;
+        right: 0;
+        top: 80.542px;
         transform: translateX(100%); }
         header .global-nav ul {
           margin: 0;
           display: list-item; }
           header .global-nav ul li {
             border: none;
-            width: 150px; }
+            border-bottom: 1px solid #ccc;
+            width: 150px;
+            line-height: 2.5; }
             header .global-nav ul li:first-child {
-              border: none; }
+              border: none;
+              border-bottom: 1px solid #ccc; }
             header .global-nav ul li a {
               font-weight: normal; }
         header .global-nav.slide-nav {
           transform: translateX(0%);
           opacity: 1;
-          visibility: visible;
-          display: block; } }
+          visibility: visible; } }
 
 /*# sourceMappingURL=style.css.map */

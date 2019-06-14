@@ -63,23 +63,6 @@ header {
     }
   }
 
-
-  // @media screen and (max-width: 800px) {
-  //   .global-nav {
-  //     ul {
-  //       li {
-  //         &.info,
-  //         &.link {
-  //           display: none;
-  //         }
-  //         &.other {
-  //           display: list-item;
-  //         }
-  //       }
-  //     }
-  //   }
-  // }
-
   @include mq('tb') {
     display: block;
     .global-nav {
@@ -90,13 +73,6 @@ header {
           border-right: 1px solid #666;
           margin: 0;
           width: calc(100% / 6);
-          // &.info,
-          // &.link {
-          //   display: list-item;
-          // }
-          // &.other {
-          //   display: none;
-          // }
           &:first-child {
             border-left: 1px solid #666;
             margin-left: 0;
@@ -110,15 +86,10 @@ header {
   }
 
   @media screen and (max-width: 600px) {
-    // height: 79.542px;
-    display: flex;
-    align-items: stretch;
-    .page-title {
-      white-space: nowrap;
-    }
+    position: relative;
     .slide-trigger {
       display: block;
-      position: absolute;
+      position: fixed;
       width: 40px;
       right: 30px;
       top: 10px;
@@ -151,22 +122,24 @@ header {
       }
     }
     .global-nav {
-      overflow-x: hidden;
       transition: all 0.5s;
-      position: relative;
+      position: fixed;
       opacity: 0;
       visibility: hidden;
-      right: -30px;
-      top: 100%;
+      right: 0;
+      top: 80.542px;
       transform: translateX(100%);
       ul {
         margin: 0;
         display: list-item;
         li {
           border: none;
+          border-bottom: 1px solid #ccc;
           width: 150px;
+          line-height: 2.5;
           &:first-child {
             border: none;
+            border-bottom: 1px solid #ccc;
           }
           a {
             font-weight: normal;
@@ -177,7 +150,6 @@ header {
         transform: translateX(0%);
         opacity: 1;
         visibility: visible;
-        display: block;
       }
     }
   }
