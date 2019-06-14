@@ -56,4 +56,13 @@ body {
   padding: 0;
   line-height: 2; }
 
+.main .contact,
+.main .minutes,
+.main .other-info {
+  padding-bottom: 20px; }
+.main .minutes ul,
+.main .other-info ul {
+  padding: 0;
+  line-height: 2; }
+
 /*# sourceMappingURL=index.css.map */

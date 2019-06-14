@@ -106,3 +106,19 @@ body {
     line-height: 2;
   }
 }
+
+// info.html
+.main {
+  .contact,
+  .minutes,
+  .other-info {
+    padding-bottom: 20px;
+  }
+  .minutes,
+  .other-info {
+    ul {
+      padding: 0;
+      line-height: 2;
+    }
+  }
+}
