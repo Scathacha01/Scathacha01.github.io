@@ -1,6 +1,8 @@
 footer {
   border-top: 1px solid #000;
-  text-align: center; }
+  text-align: center;
+  background-color: #fff;
+  padding-bottom: 1px; }
   footer small {
     color: #aaa; }
 
