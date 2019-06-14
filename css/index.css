@@ -65,4 +65,71 @@ body {
   padding: 0;
   line-height: 2; }
 
+.main .members {
+  border-radius: 5px;
+  overflow: hidden;
+  padding: 0;
+  line-height: 2;
+  width: 30%;
+  margin-right: 20px; }
+  .main .members li {
+    position: relative;
+    background-color: #e3e3e3;
+    border-bottom: 1px solid #fff;
+    border-right: 1px solid #000;
+    border-left: 1px solid #000; }
+    .main .members li .grade {
+      padding: 0 10px; }
+    .main .members li:first-child {
+      border-top: 1px solid #000;
+      border-top-left-radius: 5px;
+      border-top-right-radius: 5px; }
+    .main .members li:last-child {
+      border-bottom: 1px solid #000;
+      border-bottom-left-radius: 5px;
+      border-bottom-right-radius: 5px; }
+      .main .members li:last-child ul li:last-child {
+        border-bottom-left-radius: 5px;
+        border-bottom-right-radius: 5px; }
+    .main .members li .open-trigger0,
+    .main .members li .open-trigger1,
+    .main .members li .open-trigger2,
+    .main .members li .open-trigger3 {
+      position: absolute;
+      right: 10px; }
+    .main .members li ul {
+      display: none;
+      padding: 0; }
+      .main .members li ul.is-open {
+        display: block; }
+      .main .members li ul li {
+        padding: 0 10px;
+        background-color: #fff;
+        border: none;
+        border-bottom: 1px solid #e3e3e3; }
+        .main .members li ul li:first-child {
+          border-top: none;
+          border-radius: 0; }
+        .main .members li ul li:last-child {
+          border-bottom: none;
+          border-radius: 0; }
+.main .flex-box-member1 {
+  display: flex; }
+.main .member .name {
+  border-left: 5px solid #0cf;
+  padding-left: 5px; }
+.main .member .flex-box-member2 {
+  display: flex;
+  padding-bottom: 30px; }
+  .main .member .flex-box-member2 table {
+    padding-left: 15px; }
+    .main .member .flex-box-member2 table tr th {
+      width: 75px;
+      text-align: left;
+      position: relative; }
+      .main .member .flex-box-member2 table tr th::after {
+        content: ":";
+        position: absolute;
+        right: 0; }
+
 /*# sourceMappingURL=index.css.map */
