@@ -49,7 +49,7 @@ header {
             margin-right: 0; } }
   @media screen and (max-width: 600px) {
     header {
-      position: relative; }
+      position: fixed; }
       header .slide-trigger {
         display: block;
         position: fixed;
@@ -87,6 +87,8 @@ header {
           header .global-nav ul li {
             border: none;
             border-bottom: 1px solid #ccc;
+            border-left: 1px solid #666;
+            border-left: 1px solid #666;
             width: 150px;
             line-height: 2.5; }
             header .global-nav ul li:first-child {
