@@ -6,9 +6,9 @@
   display: none;
 } */
 
-/* ul li {
+ul li {
   display: none;
-} */
+}
 
 body {
   display: -webkit-flex;
