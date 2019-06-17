@@ -1,560 +1,883 @@
-<tr class="2017winter">
-  <td>山本</td>
-  <td>倫也</td>
+
+<tr class="2013touki">
+  <td>上船</td>
+  <td>史弥</td>
   <td>50Fr</td>
-  <td>26.28</td>
+  <td>27.62</td>
   <td>短水路</td>
-  <td>ウィンター</td>
-  <td>2017</td>
+  <td>冬季</td>
+  <td>2013</td>
   <td>相模原</td>
 </tr>
-<tr class="2017winter"><
-  <td>江口</td>
-  <td>智哉</td>
+
+
+<tr class="2013touki">
+  <td>塩野</td>
+  <td>入諒</td>
   <td>50Fr</td>
-  <td>25.88</td>
+  <td>28.63</td>
   <td>短水路</td>
-  <td>ウィンター</td>
-  <td>2017</td>
+  <td>冬季</td>
+  <td>2013</td>
   <td>相模原</td>
 </tr>
-<tr class="2017winter">
-  <td>岡田</td>
-  <td>基</td>
+
+
+<tr class="2013touki">
+  <td>大垣</td>
+  <td>宏介</td>
   <td>50Fr</td>
-  <td>27.79</td>
+  <td>28.77</td>
   <td>短水路</td>
-  <td>ウィンター</td>
-  <td>2017</td>
+  <td>冬季</td>
+  <td>2013</td>
   <td>相模原</td>
 </tr>
-<tr class="2017winter">
-  <td>廣瀬</td>
-  <td>隆</td>
+
+
+<tr class="2013touki">
+  <td>南里</td>
+  <td>侑輝</td>
   <td>50Fr</td>
-  <td>28.15</td>
+  <td>29.00</td>
   <td>短水路</td>
-  <td>ウィンター</td>
-  <td>2017</td>
+  <td>冬季</td>
+  <td>2013</td>
   <td>相模原</td>
 </tr>
-<tr class="2017winter">
-  <td>荒木</td>
-  <td>聡司</td>
+
+
+<tr class="2013touki">
+  <td>角田</td>
+  <td>勇人</td>
   <td>50Fr</td>
-  <td>29.39</td>
+  <td>29.59</td>
   <td>短水路</td>
-  <td>ウィンター</td>
-  <td>2017</td>
+  <td>冬季</td>
+  <td>2013</td>
   <td>相模原</td>
 </tr>
-<tr class="2017winter">
-  <td>五十嵐</td>
-  <td>翔</td>
+
+
+<tr class="2013touki">
+  <td>吉田</td>
+  <td>和史</td>
   <td>50Fr</td>
-  <td>24.86</td>
+  <td>27.62</td>
   <td>短水路</td>
-  <td>ウィンター</td>
-  <td>2017</td>
+  <td>冬季</td>
+  <td>2013</td>
   <td>相模原</td>
 </tr>
-<tr class="2017winter">
-  <td>玉城</td>
-  <td>旭</td>
+
+
+<tr class="2013touki">
+  <td>西井</td>
+  <td>大亮</td>
   <td>50Fr</td>
-  <td>27.49</td>
+  <td>25.93</td>
   <td>短水路</td>
-  <td>ウィンター</td>
-  <td>2017</td>
+  <td>冬季</td>
+  <td>2013</td>
   <td>相模原</td>
 </tr>
-<tr class="2017winter">
-  <td>中川</td>
-  <td>昌彦</td>
+
+
+<tr class="2013touki">
+  <td>村居</td>
+  <td>呂一</td>
   <td>50Fr</td>
-  <td>30.45</td>
+  <td>25.92</td>
   <td>短水路</td>
-  <td>ウィンター</td>
-  <td>2017</td>
+  <td>冬季</td>
+  <td>2013</td>
   <td>相模原</td>
 </tr>
-<tr class="2017winter">
-  <td>松島</td>
-  <td>諒汰</td>
+
+
+<tr class="2013touki">
+  <td>鍋谷</td>
+  <td>光太</td>
   <td>50Fr</td>
-  <td>24.89</td>
+  <td>28.93</td>
   <td>短水路</td>
-  <td>ウィンター</td>
-  <td>2017</td>
+  <td>冬季</td>
+  <td>2013</td>
   <td>相模原</td>
 </tr>
-<tr class="2017winter">
-  <td>河野</td>
-  <td>真子</td>
+
+
+<tr class="2013touki">
+  <td>大貫</td>
+  <td>和正</td>
   <td>50Fr</td>
-  <td>36.83</td>
+  <td>28.23</td>
   <td>短水路</td>
-  <td>ウィンター</td>
-  <td>2017</td>
+  <td>冬季</td>
+  <td>2013</td>
   <td>相模原</td>
 </tr>
-<tr class="2017winter">
-  <td>稲葉</td>
-  <td>ふみ</td>
+
+
+<tr class="2013touki">
+  <td>北川</td>
+  <td>冬航</td>
   <td>50Fr</td>
-  <td>36.20</td>
+  <td>26.71</td>
   <td>短水路</td>
-  <td>ウィンター</td>
-  <td>2017</td>
+  <td>冬季</td>
+  <td>2013</td>
   <td>相模原</td>
 </tr>
-<tr class="2017winter">
-  <td>山口</td>
-  <td>彩英子</td>
+
+
+<tr class="2013touki">
+  <td>坪川</td>
+  <td>大将</td>
   <td>50Fr</td>
-  <td>34.08</td>
+  <td>26.01</td>
   <td>短水路</td>
-  <td>ウィンター</td>
-  <td>2017</td>
+  <td>冬季</td>
+  <td>2013</td>
   <td>相模原</td>
 </tr>
-<tr class="2017winter">
-  <td>芦澤</td>
-  <td>那南</td>
+
+
+<tr class="2013touki">
+  <td>山元</td>
+  <td>聖也</td>
   <td>50Fr</td>
-  <td>34.75</td>
+  <td>25.91</td>
   <td>短水路</td>
-  <td>ウィンター</td>
-  <td>2017</td>
+  <td>冬季</td>
+  <td>2013</td>
   <td>相模原</td>
 </tr>
-<tr class="2017winter">
-  <td>大滝</td>
-  <td>三知子</td>
+
+
+<tr class="2013touki">
+  <td>藤岡</td>
+  <td>健</td>
   <td>50Fr</td>
-  <td>32.09</td>
+  <td>26.38</td>
   <td>短水路</td>
-  <td>ウィンター</td>
-  <td>2017</td>
+  <td>冬季</td>
+  <td>2013</td>
   <td>相模原</td>
 </tr>
-<tr class="2017winter">
-  <td>梶江</td>
-  <td>佳乃</td>
+
+
+<tr class="2013touki">
+  <td>濱島</td>
+  <td>大輝</td>
   <td>50Fr</td>
-  <td>33.19</td>
+  <td>24.29</td>
   <td>短水路</td>
-  <td>ウィンター</td>
-  <td>2017</td>
+  <td>冬季</td>
+  <td>2013</td>
   <td>相模原</td>
 </tr>
-<tr class="2017winter">
-  <td>福井</td>
-  <td>文菜</td>
-  <td>50Fr</td>
-  <td>35.88</td>
+
+
+
+<tr class="2013touki">
+  <td>塩野</td>
+  <td>入諒</td>
+  <td>100Fr</td>
+  <td>1:05.28</td>
   <td>短水路</td>
-  <td>ウィンター</td>
-  <td>2017</td>
+  <td>冬季</td>
+  <td>2013</td>
   <td>相模原</td>
 </tr>
-<tr class="2017winter">
+
+
+<tr class="2013touki">
+  <td>大垣</td>
+  <td>宏介</td>
+  <td>100Fr</td>
+  <td>1:03.94</td>
+  <td>短水路</td>
+  <td>冬季</td>
+  <td>2013</td>
+  <td>相模原</td>
+</tr>
+
+
+<tr class="2013touki">
+  <td>南里</td>
+  <td>侑輝</td>
+  <td>100Fr</td>
+  <td>1:03.49</td>
+  <td>短水路</td>
+  <td>冬季</td>
+  <td>2013</td>
+  <td>相模原</td>
+</tr>
+
+
+<tr class="2013touki">
+  <td>吉田</td>
+  <td>和史</td>
+  <td>100Fr</td>
+  <td>1:01.56</td>
+  <td>短水路</td>
+  <td>冬季</td>
+  <td>2013</td>
+  <td>相模原</td>
+</tr>
+
+
+<tr class="2013touki">
+  <td>北川</td>
+  <td>冬航</td>
+  <td>100Fr</td>
+  <td>58.84</td>
+  <td>短水路</td>
+  <td>冬季</td>
+  <td>2013</td>
+  <td>相模原</td>
+</tr>
+
+
+<tr class="2013touki">
+  <td>西井</td>
+  <td>大亮</td>
+  <td>100Fr</td>
+  <td>57.65</td>
+  <td>短水路</td>
+  <td>冬季</td>
+  <td>2013</td>
+  <td>相模原</td>
+</tr>
+
+
+<tr class="2013touki">
+  <td>村居</td>
+  <td>呂一</td>
+  <td>100Fr</td>
+  <td>56.83</td>
+  <td>短水路</td>
+  <td>冬季</td>
+  <td>2013</td>
+  <td>相模原</td>
+</tr>
+
+
+<tr class="2013touki">
+  <td>坪川</td>
+  <td>大将</td>
+  <td>100Fr</td>
+  <td>56.93</td>
+  <td>短水路</td>
+  <td>冬季</td>
+  <td>2013</td>
+  <td>相模原</td>
+</tr>
+
+
+<tr class="2013touki">
+  <td>山元</td>
+  <td>聖也</td>
+  <td>100Fr</td>
+  <td>56.74</td>
+  <td>短水路</td>
+  <td>冬季</td>
+  <td>2013</td>
+  <td>相模原</td>
+</tr>
+
+
+<tr class="2013touki">
+  <td>藤岡</td>
+  <td>健</td>
+  <td>100Fr</td>
+  <td>57.55</td>
+  <td>短水路</td>
+  <td>冬季</td>
+  <td>2013</td>
+  <td>相模原</td>
+</tr>
+
+
+<tr class="2013touki">
+  <td>濱島</td>
+  <td>大輝</td>
+  <td>100Fr</td>
+  <td>53.85</td>
+  <td>短水路</td>
+  <td>冬季</td>
+  <td>2013</td>
+  <td>相模原</td>
+</tr>
+
+
+
+<tr class="2013touki">
+  <td>渋沢</td>
+  <td>昂平</td>
+  <td>200Fr</td>
+  <td>2:11.70</td>
+  <td>短水路</td>
+  <td>冬季</td>
+  <td>2013</td>
+  <td>相模原</td>
+</tr>
+
+
+<tr class="2013touki">
+  <td>西井</td>
+  <td>大亮</td>
+  <td>200Fr</td>
+  <td>2:07.07</td>
+  <td>短水路</td>
+  <td>冬季</td>
+  <td>2013</td>
+  <td>相模原</td>
+</tr>
+
+
+<tr class="2013touki">
+  <td>藤岡</td>
+  <td>健</td>
+  <td>200Fr</td>
+  <td>2:09.11</td>
+  <td>短水路</td>
+  <td>冬季</td>
+  <td>2013</td>
+  <td>相模原</td>
+</tr>
+
+
+
+<tr class="2013touki">
   <td>渡辺</td>
-  <td>こころ</td>
-  <td>50Fr</td>
-  <td>30.06</td>
-  <td>短水路</td>
-  <td>ウィンター</td>
-  <td>2017</td>
-  <td>相模原</td>
-</tr>
-<tr class="2017winter">
-  <td>江口</td>
-  <td>智哉</td>
-  <td>100Fr</td>
-  <td>57.86</td>
-  <td>短水路</td>
-  <td>ウィンター</td>
-  <td>2017</td>
-  <td>相模原</td>
-</tr>
-<tr class="2017winter">
-  <td>岡田</td>
   <td>基</td>
-  <td>100Fr</td>
-  <td>1:01.76</td>
+  <td>50Ba</td>
+  <td>32.38</td>
   <td>短水路</td>
-  <td>ウィンター</td>
-  <td>2017</td>
+  <td>冬季</td>
+  <td>2013</td>
   <td>相模原</td>
 </tr>
-<tr class="2017winter">
-  <td>荒井</td>
-  <td>真太</td>
-  <td>100Fr</td>
-  <td>54.94</td>
+
+
+<tr class="2013touki">
+  <td>朝日</td>
+  <td>達哉</td>
+  <td>50Ba</td>
+  <td>28.69</td>
   <td>短水路</td>
-  <td>ウィンター</td>
-  <td>2017</td>
+  <td>冬季</td>
+  <td>2013</td>
   <td>相模原</td>
 </tr>
-<tr class="2017winter">
-  <td>玉城</td>
-  <td>旭</td>
-  <td>100Fr</td>
-  <td>1:00.31</td>
+
+
+
+<tr class="2013touki">
+  <td>沖</td>
+  <td>颯太</td>
+  <td>100Br</td>
+  <td>1:12.82</td>
   <td>短水路</td>
-  <td>ウィンター</td>
-  <td>2017</td>
+  <td>冬季</td>
+  <td>2013</td>
   <td>相模原</td>
 </tr>
-<tr class="2017winter">
-  <td>丹下</td>
-  <td>湧斗</td>
-  <td>100Fr</td>
-  <td>58.31</td>
+
+
+<tr class="2013touki">
+  <td>渡辺</td>
+  <td>汀</td>
+  <td>100Br</td>
+  <td>1:03.06</td>
   <td>短水路</td>
-  <td>ウィンター</td>
-  <td>2017</td>
+  <td>冬季</td>
+  <td>2013</td>
   <td>相模原</td>
 </tr>
-<tr class="2017winter">
-  <td>中川</td>
-  <td>昌彦</td>
-  <td>100Fr</td>
-  <td>1:14.81</td>
-  <td>短水路</td>
-  <td>ウィンター</td>
-  <td>2017</td>
-  <td>相模原</td>
-</tr>
-<tr class="2017winter">
-  <td>大滝</td>
-  <td>三知子</td>
-  <td>100Fr</td>
-  <td>1:13.45</td>
-  <td>短水路</td>
-  <td>ウィンター</td>
-  <td>2017</td>
-  <td>相模原</td>
-</tr>
-<tr class="2017winter">
-  <td>堂前</td>
-  <td>清孝</td>
-  <td>200Fr</td>
-  <td>2:07.78</td>
-  <td>短水路</td>
-  <td>ウィンター</td>
-  <td>2017</td>
-  <td>相模原</td>
-</tr>
-<tr class="2017winter">
-  <td>廣瀬</td>
-  <td>隆</td>
-  <td>200Fr</td>
-  <td>2:13.92</td>
-  <td>短水路</td>
-  <td>ウィンター</td>
-  <td>2017</td>
-  <td>相模原</td>
-</tr>
-<tr class="2017winter">
-  <td>荒井</td>
-  <td>真太</td>
-  <td>200Fr</td>
-  <td>2:00.56</td>
-  <td>短水路</td>
-  <td>ウィンター</td>
-  <td>2017</td>
-  <td>相模原</td>
-</tr>
-<tr class="2017winter">
-  <td>五十嵐</td>
-  <td>翔</td>
-  <td>200Fr</td>
-  <td>2:07.18</td>
-  <td>短水路</td>
-  <td>ウィンター</td>
-  <td>2017</td>
-  <td>相模原</td>
-</tr>
-<tr class="2017winter">
-  <td>松島</td>
-  <td>諒汰</td>
-  <td>200Fr</td>
-  <td>2:03.83</td>
-  <td>短水路</td>
-  <td>ウィンター</td>
-  <td>2017</td>
-  <td>相模原</td>
-</tr>
-<tr class="2017winter">
-  <td>堂前</td>
-  <td>清孝</td>
-  <td>400Fr</td>
-  <td>4:32.33</td>
-  <td>短水路</td>
-  <td>ウィンター</td>
-  <td>2017</td>
-  <td>相模原</td>
-</tr>
-<tr class="2017winter">
-  <td>富塚</td>
-  <td>ゆみ子</td>
+
+
+
+<tr class="2013touki">
+  <td>渡辺</td>
+  <td>基</td>
   <td>50Br</td>
-  <td>41.30</td>
+  <td>35.29</td>
   <td>短水路</td>
-  <td>ウィンター</td>
-  <td>2017</td>
+  <td>冬季</td>
+  <td>2013</td>
   <td>相模原</td>
 </tr>
-<tr class="2017winter">
-  <td>小川原</td>
-  <td>魁人</td>
-  <td>100Br</td>
-  <td>1:05.48</td>
-  <td>短水路</td>
-  <td>ウィンター</td>
-  <td>2017</td>
-  <td>相模原</td>
-</tr>
-<tr class="2017winter">
-  <td>三田村</td>
-  <td>和志</td>
-  <td>100Br</td>
-  <td>1:09.65</td>
-  <td>短水路</td>
-  <td>ウィンター</td>
-  <td>2017</td>
-  <td>相模原</td>
-</tr>
-<tr class="2017winter">
-  <td>富塚</td>
-  <td>ゆみ子</td>
-  <td>100Br</td>
-  <td>1:29.94</td>
-  <td>短水路</td>
-  <td>ウィンター</td>
-  <td>2017</td>
-  <td>相模原</td>
-</tr>
-<tr class="2017winter">
-  <td>花村</td>
-  <td>美咲</td>
-  <td>100Br</td>
-  <td>1:25.61</td>
-  <td>短水路</td>
-  <td>ウィンター</td>
-  <td>2017</td>
-  <td>相模原</td>
-</tr>
-<tr class="2017winter">
-  <td>芦澤</td>
-  <td>那南</td>
-  <td>100Br</td>
-  <td>1:35.12</td>
-  <td>短水路</td>
-  <td>ウィンター</td>
-  <td>2017</td>
-  <td>相模原</td>
-</tr>
-<tr class="2017winter">
-  <td>小川原</td>
-  <td>魁人</td>
+
+
+
+<tr class="2013touki">
+  <td>角田</td>
+  <td>勇人</td>
   <td>200Br</td>
-  <td>2:23.69</td>
+  <td>2:52.46</td>
   <td>短水路</td>
-  <td>ウィンター</td>
-  <td>2017</td>
+  <td>冬季</td>
+  <td>2013</td>
   <td>相模原</td>
 </tr>
-<tr class="2017winter">
-  <td>三田村</td>
-  <td>和志</td>
+
+
+<tr class="2013touki">
+  <td>上船</td>
+  <td>史弥</td>
   <td>200Br</td>
-  <td>2:29.72</td>
+  <td>2:35.58</td>
   <td>短水路</td>
-  <td>ウィンター</td>
-  <td>2017</td>
+  <td>冬季</td>
+  <td>2013</td>
   <td>相模原</td>
 </tr>
-<tr class="2017winter">
-  <td>平野</td>
-  <td>司</td>
-  <td>200Br</td>
-  <td>2:25.70</td>
-  <td>短水路</td>
-  <td>ウィンター</td>
-  <td>2017</td>
-  <td>相模原</td>
-</tr>
-<tr class="2017winter">
-  <td>花村</td>
-  <td>美咲</td>
-  <td>200Br</td>
-  <td>3:06.39</td>
-  <td>短水路</td>
-  <td>ウィンター</td>
-  <td>2017</td>
-  <td>相模原</td>
-</tr>
-<tr class="2017winter">
-  <td>伊藤</td>
-  <td>耕太郎</td>
-  <td>100Ba</td>
-  <td>1:10.27</td>
-  <td>短水路</td>
-  <td>ウィンター</td>
-  <td>2017</td>
-  <td>相模原</td>
-</tr>
-<tr class="2017winter">
-  <td>高橋</td>
-  <td>周太郎</td>
-  <td>100Ba</td>
-  <td>1:00.55</td>
-  <td>短水路</td>
-  <td>ウィンター</td>
-  <td>2017</td>
-  <td>相模原</td>
-</tr>
-<tr class="2017winter">
-  <td>樋口</td>
-  <td>凌平</td>
-  <td>100Ba</td>
-  <td>1:05.96</td>
-  <td>短水路</td>
-  <td>ウィンター</td>
-  <td>2017</td>
-  <td>相模原</td>
-</tr>
-<tr class="2017winter">
-  <td>伊藤</td>
-  <td>耕太郎</td>
-  <td>200Ba</td>
-  <td>2:30.94</td>
-  <td>短水路</td>
-  <td>ウィンター</td>
-  <td>2017</td>
-  <td>相模原</td>
-</tr>
-<tr class="2017winter">
-  <td>高橋</td>
-  <td>周太郎</td>
-  <td>200Ba</td>
-  <td>2:12.44</td>
-  <td>短水路</td>
-  <td>ウィンター</td>
-  <td>2017</td>
-  <td>相模原</td>
-</tr>
-<tr class="2017winter">
-  <td>内藤</td>
-  <td>悠貴</td>
-  <td>200Ba</td>
-  <td>2:15.26</td>
-  <td>短水路</td>
-  <td>ウィンター</td>
-  <td>2017</td>
-  <td>相模原</td>
-</tr>
-<tr class="2017winter">
-  <td>山本</td>
-  <td>蒔恩</td>
+
+
+
+<tr class="2013touki">
+  <td>村居</td>
+  <td>呂一</td>
   <td>50Fly</td>
-  <td>25.73</td>
+  <td>27.84</td>
   <td>短水路</td>
-  <td>ウィンター</td>
-  <td>2017</td>
+  <td>冬季</td>
+  <td>2013</td>
   <td>相模原</td>
 </tr>
-<tr class="2017winter">
-  <td>山本</td>
-  <td>蒔恩</td>
-  <td>100Fly</td>
-  <td>56.97</td>
+
+
+<tr class="2013touki">
+  <td>大貫</td>
+  <td>和正</td>
+  <td>50Fly</td>
+  <td>31.34</td>
   <td>短水路</td>
-  <td>ウィンター</td>
-  <td>2017</td>
+  <td>冬季</td>
+  <td>2013</td>
   <td>相模原</td>
 </tr>
-<tr class="2017winter">
-  <td>平野</td>
-  <td>司</td>
-  <td>100Fly</td>
-  <td>59.63</td>
+
+
+<tr class="2013touki">
+  <td>境野</td>
+  <td>瑞希</td>
+  <td>50Fly</td>
+  <td>27.24</td>
   <td>短水路</td>
-  <td>ウィンター</td>
-  <td>2017</td>
+  <td>冬季</td>
+  <td>2013</td>
   <td>相模原</td>
 </tr>
-<tr class="2017winter">
-  <td>村上</td>
-  <td>駿</td>
-  <td>200Fly</td>
-  <td>2:10.21</td>
-  <td>短水路</td>
-  <td>ウィンター</td>
-  <td>2017</td>
-  <td>相模原</td>
-</tr>
-<tr class="2017winter">
-  <td>丹下</td>
-  <td>湧斗</td>
-  <td>200Fly</td>
-  <td>2:21.85</td>
-  <td>短水路</td>
-  <td>ウィンター</td>
-  <td>2017</td>
-  <td>相模原</td>
-</tr>
-<tr class="2017winter">
-  <td>樋口</td>
-  <td>凌平</td>
-  <td>200IM</td>
-  <td>2:15.70</td>
-  <td>短水路</td>
-  <td>ウィンター</td>
-  <td>2017</td>
-  <td>相模原</td>
-</tr>
-<tr class="2017winter">
+
+
+<tr class="2013touki">
   <td>渡辺</td>
-  <td>こころ</td>
+  <td>基</td>
+  <td>50Fly</td>
+  <td>27.85</td>
+  <td>短水路</td>
+  <td>冬季</td>
+  <td>2013</td>
+  <td>相模原</td>
+</tr>
+
+
+<tr class="2013touki">
+  <td>山元</td>
+  <td>聖也</td>
+  <td>50Fly</td>
+  <td>28.01</td>
+  <td>短水路</td>
+  <td>冬季</td>
+  <td>2013</td>
+  <td>相模原</td>
+</tr>
+
+
+<tr class="2013touki">
+  <td>森岡</td>
+  <td>英樹</td>
+  <td>50Fly</td>
+  <td>26.88</td>
+  <td>短水路</td>
+  <td>冬季</td>
+  <td>2013</td>
+  <td>相模原</td>
+</tr>
+
+
+<tr class="2013touki">
+  <td>渡辺</td>
+  <td>汀</td>
+  <td>50Fly</td>
+  <td>25.67</td>
+  <td>短水路</td>
+  <td>冬季</td>
+  <td>2013</td>
+  <td>相模原</td>
+</tr>
+
+
+
+<tr class="2013touki">
+  <td>沖</td>
+  <td>颯太</td>
+  <td>100Fly</td>
+  <td>1:12.81</td>
+  <td>短水路</td>
+  <td>冬季</td>
+  <td>2013</td>
+  <td>相模原</td>
+</tr>
+
+
+<tr class="2013touki">
+  <td>渡辺</td>
+  <td>基</td>
+  <td>100Fly</td>
+  <td>1:03.74</td>
+  <td>短水路</td>
+  <td>冬季</td>
+  <td>2013</td>
+  <td>相模原</td>
+</tr>
+
+
+<tr class="2013touki">
+  <td>大貫</td>
+  <td>和正</td>
+  <td>100Fly</td>
+  <td>1:11.46</td>
+  <td>短水路</td>
+  <td>冬季</td>
+  <td>2013</td>
+  <td>相模原</td>
+</tr>
+
+
+<tr class="2013touki">
+  <td>三浦</td>
+  <td>正輝</td>
+  <td>100Fly</td>
+  <td>58.79</td>
+  <td>短水路</td>
+  <td>冬季</td>
+  <td>2013</td>
+  <td>相模原</td>
+</tr>
+
+
+
+<tr class="2013touki">
+  <td>朝日</td>
+  <td>達哉</td>
+  <td>200Fly</td>
+  <td>2:12.51</td>
+  <td>短水路</td>
+  <td>冬季</td>
+  <td>2013</td>
+  <td>相模原</td>
+</tr>
+
+
+<tr class="2013touki">
+  <td>三浦</td>
+  <td>正輝</td>
+  <td>200Fly</td>
+  <td>2:13.62</td>
+  <td>短水路</td>
+  <td>冬季</td>
+  <td>2013</td>
+  <td>相模原</td>
+</tr>
+
+
+<tr class="2013touki">
+  <td>渡辺</td>
+  <td>汀</td>
+  <td>200Fly</td>
+  <td>2:10.85</td>
+  <td>短水路</td>
+  <td>冬季</td>
+  <td>2013</td>
+  <td>相模原</td>
+</tr>
+
+
+
+<tr class="2013touki">
+  <td>田中</td>
+  <td>功太郎</td>
+  <td>100IM</td>
+  <td>1:15.67</td>
+  <td>短水路</td>
+  <td>冬季</td>
+  <td>2013</td>
+  <td>相模原</td>
+</tr>
+
+
+
+
+<tr class="2013touki">
+  <td>境野</td>
+  <td>瑞希</td>
   <td>200IM</td>
-  <td>2:42.82</td>
+  <td>2:12.91</td>
   <td>短水路</td>
-  <td>ウィンター</td>
-  <td>2017</td>
+  <td>冬季</td>
+  <td>2013</td>
   <td>相模原</td>
 </tr>
-<tr class="2017winter">
-  <td>内藤</td>
-  <td>悠貴</td>
+
+
+<tr class="2013touki">
+  <td>朝日</td>
+  <td>達哉</td>
+  <td>200IM</td>
+  <td>2:13.70</td>
+  <td>短水路</td>
+  <td>冬季</td>
+  <td>2013</td>
+  <td>相模原</td>
+</tr>
+
+
+
+<tr class="2013touki">
+  <td>森岡</td>
+  <td>英樹</td>
   <td>400IM</td>
-  <td>4:39.14</td>
+  <td>4:40.59</td>
   <td>短水路</td>
-  <td>ウィンター</td>
-  <td>2017</td>
+  <td>冬季</td>
+  <td>2013</td>
   <td>相模原</td>
 </tr>
-<tr class="2017winter">
-  <td>大滝、花村、梶江、渡辺</td>
+
+
+<tr class="2013touki">
+  <td>境野</td>
+  <td>瑞希</td>
+  <td>400IM</td>
+  <td>4:48.26</td>
+  <td>短水路</td>
+  <td>冬季</td>
+  <td>2013</td>
+  <td>相模原</td>
+</tr>
+
+
+
+<tr class="2013touki">
+  <td>村上、渋沢、沖、山元</td>
   <td></td>
   <td>200FR</td>
-  <td>2:09.03</td>
+  <td>1:45.67</td>
   <td>短水路</td>
-  <td>ウィンター</td>
-  <td>2017</td>
+  <td>冬季</td>
+  <td>2013</td>
   <td>相模原</td>
 </tr>
-<tr class="2017winter">
-  <td>荒井、五十嵐、松島、山本蒔</td>
+
+
+
+<tr class="2013touki">
+  <td>北川、上船、西井、鍋谷</td>
   <td></td>
-  <td>400FR</td>
-  <td>3:36.92</td>
+  <td>200MR</td>
+  <td>1:58.30</td>
   <td>短水路</td>
-  <td>ウィンター</td>
-  <td>2017</td>
+  <td>冬季</td>
+  <td>2013</td>
+  <td>相模原</td>
+</tr>
+
+
+
+<tr class="2013touki">
+  <td>前田</td>
+  <td>つぐみ</td>
+  <td>50Fr</td>
+  <td>37.60</td>
+  <td>短水路</td>
+  <td>冬季</td>
+  <td>2013</td>
+  <td>相模原</td>
+</tr>
+
+
+<tr class="2013touki">
+  <td>飯島</td>
+  <td>瑠子</td>
+  <td>50Fr</td>
+  <td>38.27</td>
+  <td>短水路</td>
+  <td>冬季</td>
+  <td>2013</td>
+  <td>相模原</td>
+</tr>
+
+
+<tr class="2013touki">
+  <td>西岡</td>
+  <td>芙実</td>
+  <td>50Fr</td>
+  <td>38.09</td>
+  <td>短水路</td>
+  <td>冬季</td>
+  <td>2013</td>
+  <td>相模原</td>
+</tr>
+
+
+<tr class="2013touki">
+  <td>熊倉</td>
+  <td>紗代子</td>
+  <td>50Fr</td>
+  <td>35.56</td>
+  <td>短水路</td>
+  <td>冬季</td>
+  <td>2013</td>
+  <td>相模原</td>
+</tr>
+
+
+<tr class="2013touki">
+  <td>岩崎</td>
+  <td>佑紀</td>
+  <td>50Fr</td>
+  <td>35.24</td>
+  <td>短水路</td>
+  <td>冬季</td>
+  <td>2013</td>
+  <td>相模原</td>
+</tr>
+
+
+<tr class="2013touki">
+  <td>佐竹</td>
+  <td>晴香</td>
+  <td>50Fr</td>
+  <td>31.69</td>
+  <td>短水路</td>
+  <td>冬季</td>
+  <td>2013</td>
+  <td>相模原</td>
+</tr>
+
+
+<tr class="2013touki">
+  <td>田中</td>
+  <td>麻理子</td>
+  <td>50Fr</td>
+  <td>33.80</td>
+  <td>短水路</td>
+  <td>冬季</td>
+  <td>2013</td>
+  <td>相模原</td>
+</tr>
+
+
+<tr class="2013touki">
+  <td>中井</td>
+  <td>祐賀子</td>
+  <td>50Fr</td>
+  <td>32.22</td>
+  <td>短水路</td>
+  <td>冬季</td>
+  <td>2013</td>
+  <td>相模原</td>
+</tr>
+
+
+<tr class="2013touki">
+  <td>稲場</td>
+  <td>愛</td>
+  <td>50Fr</td>
+  <td>30.31</td>
+  <td>短水路</td>
+  <td>冬季</td>
+  <td>2013</td>
+  <td>相模原</td>
+</tr>
+
+
+<tr class="2013touki">
+  <td>宮下</td>
+  <td>瞳</td>
+  <td>50Fr</td>
+  <td>30.54</td>
+  <td>短水路</td>
+  <td>冬季</td>
+  <td>2013</td>
+  <td>相模原</td>
+</tr>
+
+
+
+<tr class="2013touki">
+  <td>田中</td>
+  <td>麻理子</td>
+  <td>100Fr</td>
+  <td>1:17.48</td>
+  <td>短水路</td>
+  <td>冬季</td>
+  <td>2013</td>
+  <td>相模原</td>
+</tr>
+
+
+<tr class="2013touki">
+  <td>中井</td>
+  <td>祐賀子</td>
+  <td>100Fr</td>
+  <td>1:11.91</td>
+  <td>短水路</td>
+  <td>冬季</td>
+  <td>2013</td>
+  <td>相模原</td>
+</tr>
+
+
+
+<tr class="2013touki">
+  <td>佐竹</td>
+  <td>晴香</td>
+  <td>100Br</td>
+  <td>1:27.20</td>
+  <td>短水路</td>
+  <td>冬季</td>
+  <td>2013</td>
+  <td>相模原</td>
+</tr>
+
+
+
+<tr class="2013touki">
+  <td>宮下</td>
+  <td>瞳</td>
+  <td>50Fly</td>
+  <td>33.49</td>
+  <td>短水路</td>
+  <td>冬季</td>
+  <td>2013</td>
+  <td>相模原</td>
+</tr>
+
+
+
+<tr class="2013touki">
+  <td>稲場</td>
+  <td>愛</td>
+  <td>200IM</td>
+  <td>2:40.92</td>
+  <td>短水路</td>
+  <td>冬季</td>
+  <td>2013</td>
   <td>相模原</td>
 </tr>
