@@ -2,7 +2,7 @@
   display: table-row;
 }
 
-tbody tr {
+table tr {
   display: none;
 }
 
