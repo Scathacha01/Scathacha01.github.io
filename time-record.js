@@ -53,10 +53,10 @@ document.addEventListener("DOMContentLoaded", function() {
     var urlHash = location.hash;
     // #の除去
     urlHash = urlHash.slice(1);
-    var compe = document.getElementsByClassName(urlHash);
+    var showItem = document.getElementsByClassName(urlHash);
     // 直前に表示されていたものはないので、それを非表示にする処理は必要ない
-    for (var k = 0; k < compe.length; k++) {
-      compe[k].classList.add("show");
+    for (var k = 0; k < showItem.length; k++) {
+      showItem[k].classList.add("show");
     }
   }, 1);
 
