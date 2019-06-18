@@ -1,17 +1,88 @@
 .show {
-  display: table-row;
-}
+  display: table-row; }
 
 tbody tr {
-  display: none;
-}
+  display: none; }
 
-/* ul li {
-  display: none;
-} */
+.flex-box-record {
+  display: flex; }
 
-body {
-  display: -webkit-flex;
-  display: -ms-flex;
-  display: flex;
-}
+.name-list {
+  margin-right: 30px;
+  box-sizing: border-box;
+  border: 1px solid #000;
+  border-radius: 5px;
+  overflow: hidden;
+  line-height: 2;
+  width: 160px;
+  margin-bottom: 20px; }
+  .name-list ul {
+    padding: 0;
+    margin: 0; }
+    .name-list ul li {
+      position: relative;
+      padding: 0;
+      background-color: #e3e3e3;
+      border-bottom: 1px solid #fff; }
+      .name-list ul li:last-child {
+        border: none; }
+      .name-list ul li .nth-class {
+        padding: 0 10px; }
+      .name-list ul li .open-trigger {
+        position: absolute;
+        right: 10px; }
+      .name-list ul li ul {
+        display: none; }
+        .name-list ul li ul.is-open {
+          display: block; }
+        .name-list ul li ul li {
+          padding: 0 10px;
+          background-color: #fff;
+          border-bottom: 1px solid #e3e3e3; }
+
+.search-opts {
+  width: 160px;
+  border: 1px solid #000;
+  border-radius: 5px;
+  background-color: #fff;
+  box-sizing: border-box; }
+  .search-opts .exp {
+    padding: 0 10px; }
+  .search-opts form {
+    padding: 0 10px;
+    border-bottom: 1px dashed #e3e3e3; }
+    .search-opts form:last-child {
+      border: none; }
+    .search-opts form select {
+      width: 140px;
+      box-sizing: border-box; }
+    .search-opts form span {
+      color: red;
+      font-size: 0.7em; }
+
+.time-record table {
+  border: 1px solid #000;
+  line-height: 1.75;
+  border-collapse: collapse;
+  border-spacing: 0; }
+  .time-record table thead {
+    border-bottom: 1px solid #000;
+    background-color: #e3e3e3; }
+    .time-record table thead th:nth-child(1),
+    .time-record table thead th:nth-child(2),
+    .time-record table thead th:nth-child(3) {
+      width: 54px; }
+    .time-record table thead th:nth-child(4) {
+      width: 68px; }
+    .time-record table thead th:nth-child(6) {
+      width: 82px; }
+    .time-record table thead th:nth-child(7) {
+      width: 44px; }
+    .time-record table thead th:nth-child(8) {
+      width: 54px; }
+  .time-record table tbody {
+    background-color: #fff; }
+    .time-record table tbody td {
+      text-align: center; }
+
+/*# sourceMappingURL=time-record.css.map */

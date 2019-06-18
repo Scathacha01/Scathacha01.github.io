@@ -42,7 +42,10 @@ function andSearch(opt) {
 document.addEventListener("DOMContentLoaded", function() {
   var indexItem = document.getElementsByClassName("index");
   var nameList = document.getElementsByClassName("name-list")[0];
-  var searchOpt = document.getElementsByClassName("search-opt")[0];
+  var searchOpts = document.getElementsByClassName("search-opts")[0];
+  var form1 = document.forms.search_opt1;
+  var form2 = document.forms.search_opt2;
+  var form3 = document.forms.search_opt3;
   // .name-listがclickされたとき
   nameList.addEventListener("click", function() {
     // hashを得るために1msの遅延
@@ -66,8 +69,28 @@ document.addEventListener("DOMContentLoaded", function() {
     }, 1);
   });
 
-  // .search-optがclickされたとき
-  searchOpt.addEventListener("click", function() {
-    andSearch("100Br");
+  // .search-optsがclickされたとき
+  searchOpts.addEventListener("click", function() {
+    var searchOpt = [
+      // 開催年と大会名が両方指定されたときに""以外の値をもつ
+      (form1.year.value == "") ? ""
+      : (form1.compe.value == "") ? ""
+      : form1.year.value + form1.compe.value,
+      // 距離と種目が両方指定されたときに""以外の値をもつ
+      (form2.dist.value == "") ? ""
+      : (form2.style.value == "") ? ""
+      : form2.dist.value + form2.style.value,
+      // 長水路か短水路か
+      form3.len.value
+    ];
+    // ""で検索することはできなかった
+    for (var i = 0; i < searchOpt.length; i++) {
+      // searchOpt[i]が""でないことの確認
+      console.log(searchOpt[i]);
+      if (searchOpt[i] != "") {
+        // 検索
+        andSearch(searchOpt[i]);
+      }
+    }
   });
 });

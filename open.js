@@ -36,7 +36,6 @@ function toggleIsOpen(num) {
   } else {
     open[num].classList.add(op);
     openTrigger[num].textContent = "-";
-
   }
 }
 
