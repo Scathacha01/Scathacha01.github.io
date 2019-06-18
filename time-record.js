@@ -46,6 +46,20 @@ document.addEventListener("DOMContentLoaded", function() {
   var form1 = document.forms.search_opt1;
   var form2 = document.forms.search_opt2;
   var form3 = document.forms.search_opt3;
+
+  // 他のページからある試合結果を参照するとき
+  setTimeout(function() {
+    // urlHashは現在のページのhash
+    var urlHash = location.hash;
+    // #の除去
+    urlHash = urlHash.slice(1);
+    var compe = document.getElementsByClassName(urlHash);
+    // 直前に表示されていたものはないので、それを非表示にする処理は必要ない
+    for (var k = 0; k < compe.length; k++) {
+      compe[k].classList.add("show");
+    }
+  }, 1);
+
   // .name-listがclickされたとき
   nameList.addEventListener("click", function() {
     // hashを得るために1msの遅延
