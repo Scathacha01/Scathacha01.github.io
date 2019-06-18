@@ -8,8 +8,6 @@
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
   <!-- normalize.cssのCDNの読み込み -->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css">
-  <link rel="stylesheet" href="./css/header.css">
-  <link rel="stylesheet" href="./css/footer.css">
   <link rel="stylesheet" href="./css/index.css">
   <title>東京工業大学水泳部</title>
 </head>
@@ -34,8 +32,300 @@
   </header>
   <div class="main">
     <h2 class="page-title">試合結果</h2>
+    <div class="swimming">
+      <h3>競泳大会</h3>
+      <form action="" method="" name="swim" onChange="rsltSwim()">
+        <p>他年度の記録はこちらから
+          <select size="1" name="year">
+            <option value="2010">2010</option>
+            <option value="2011">2011</option>
+            <option value="2012">2012</option>
+            <option value="2013">2013</option>
+            <option value="2014">2014</option>
+            <option value="2015">2015</option>
+            <option value="2016">2016</option>
+            <option value="2017">2017</option>
+            <option value="2018">2018</option>
+            <option value="2019" selected>2019</option>
+          </select>
+        </p>
+      </form>
+      <table class="swim-table 2010">
+        <tr>
+          <th>2010年度競技結果</th>
+        </tr>
+        <tr>
+          <td><a href="./record.html#2010shunki">第20回関東学生春季公認記録会</a></td>
+        </tr>
+        <tr>
+          <td><a href="./record.html#2010rikousen">第54回東日本理工科系大学選手権水泳競技大会</a></td>
+        </tr>
+        <tr>
+          <td><a href="./record.html#2010toubu">第57回東地区国公立水泳競技大会</a></td>
+        </tr>
+        <tr>
+          <td><a href="./record.html#2010kaki">第24回関東学生夏季公認記録会</a></td>
+        </tr>
+        <tr>
+          <td><a href="./record.html#2010kankare">第83回関東学生選手権水泳競技大会</a></td>
+        </tr>
+        <tr>
+          <td><a href="./record.html#2010winter">第3回関東学生ウィンターカップ公認記録会</a></td>
+        </tr>
+        <tr>
+          <td><a href="./record.html#2010touki">第34回関東学生冬季公認記録会</a></td>
+        </tr>
+      </table>
+      <table class="swim-table 2011">
+        <tr>
+          <th>2011年度競技結果</th>
+        </tr>
+        <tr>
+          <td><a href="./record.html#2011shunki">第21回関東学生春季公認記録会</a></td>
+        </tr>
+        <tr>
+          <td><a href="./record.html#2011rikousen">第55回東日本理工科系大学選手権水泳競技大会</a></td>
+        </tr>
+        <tr>
+          <td><a href="./record.html#2011toubu">第58回東地区国公立水泳競技大会</a></td>
+        </tr>
+        <tr>
+          <td><a href="./record.html#2011kaki">第25回関東学生夏季公認記録会</a></td>
+        </tr>
+        <tr>
+          <td><a href="./record.html#2011kankare">第84回関東学生選手権水泳競技大会</a></td>
+        </tr>
+        <tr>
+          <td><a href="./record.html#2011winter">第4回関東学生ウィンターカップ公認記録会</a></td>
+        </tr>
+        <tr>
+          <td><a href="./record.html#2011touki">第35回関東学生冬季公認記録会</a></td>
+        </tr>
+      </table>
+      <table class="swim-table 2012">
+        <tr>
+          <th>2012年度競技結果</th>
+        </tr>
+        <tr>
+          <td><a href="./record.html#2012shunki">第22回関東学生春季公認記録会</a></td>
+        </tr>
+        <tr>
+          <td><a href="./record.html#2012rikousen">第56回東日本理工科系大学選手権水泳競技大会</a></td>
+        </tr>
+        <tr>
+          <td><a href="./record.html#2012toubu">第59回東地区国公立水泳競技大会</a></td>
+        </tr>
+        <tr>
+          <td><a href="./record.html#2012kaki">第26回関東学生夏季公認記録会</a></td>
+        </tr>
+        <tr>
+          <td><a href="./record.html#2012kankare">第85回関東学生選手権水泳競技大会</a></td>
+        </tr>
+        <tr>
+          <td><a href="./record.html#2012winter">第5回関東学生ウィンターカップ公認記録会</a></td>
+        </tr>
+        <tr>
+          <td><a href="./record.html#2012touki">第36回関東学生冬季公認記録会</a></td>
+        </tr>
+      </table>
+      <table class="swim-table 2013">
+        <tr>
+          <th>2013年度競技結果</th>
+        </tr>
+        <tr>
+          <td><a href="./record.html#2013shunki">第23回関東学生春季公認記録会</a></td>
+        </tr>
+        <tr>
+          <td><a href="./record.html#2013rikousen">第57回東日本理工科系大学選手権水泳競技大会</a></td>
+        </tr>
+        <tr>
+          <td><a href="./record.html#2013toubu">第60回東地区国公立水泳競技大会</a></td>
+        </tr>
+        <tr>
+          <td><a href="./record.html#2013kaki">第27回関東学生夏季公認記録会</a></td>
+        </tr>
+        <tr>
+          <td><a href="./record.html#2013kankare">第86回関東学生選手権水泳競技大会</a></td>
+        </tr>
+        <tr>
+          <td><a href="./record.html#2013winter">第6回関東学生ウィンターカップ公認記録会</a></td>
+        </tr>
+        <tr>
+          <td><a href="./record.html#2013touki">第37回関東学生冬季公認記録会</a></td>
+        </tr>
+      </table>
+      <table class="swim-table 2014">
+        <tr>
+          <th>2014年度競技結果</th>
+        </tr>
+        <tr>
+          <td><a href="./record.html#2014shunki">第24回関東学生春季公認記録会</a></td>
+        </tr>
+        <tr>
+          <td><a href="./record.html#2014rikousen">第58回東日本理工科系大学選手権水泳競技大会</a></td>
+        </tr>
+        <tr>
+          <td><a href="./record.html#2014toubu">第61回東地区国公立水泳競技大会</a></td>
+        </tr>
+        <tr>
+          <td><a href="./record.html#2014kaki">第28回関東学生夏季公認記録会</a></td>
+        </tr>
+        <tr>
+          <td><a href="./record.html#2014kankare">第87回関東学生選手権水泳競技大会</a></td>
+        </tr>
+        <tr>
+          <td><a href="./record.html#2014winter">第7回関東学生ウィンターカップ公認記録会</a></td>
+        </tr>
+        <tr>
+          <td><a href="./record.html#2014touki">第38回関東学生冬季公認記録会</a></td>
+        </tr>
+      </table>
+      <table class="swim-table 2015">
+        <tr>
+          <th>2015年度競技結果</th>
+        </tr>
+        <tr>
+          <td><a href="./record.html#2015shunki">第25回関東学生春季公認記録会</a></td>
+        </tr>
+        <tr>
+          <td><a href="./record.html#2015rikousen">第59回東日本理工科系大学選手権水泳競技大会</a></td>
+        </tr>
+        <tr>
+          <td><a href="./record.html#2015toubu">第62回東地区国公立水泳競技大会</a></td>
+        </tr>
+        <tr>
+          <td><a href="./record.html#2015kaki">第29回関東学生夏季公認記録会</a></td>
+        </tr>
+        <tr>
+          <td><a href="./record.html#2015kankare">第88回関東学生選手権水泳競技大会</a></td>
+        </tr>
+        <tr>
+          <td><a href="./record.html#2015winter">第8回関東学生ウィンターカップ公認記録会</a></td>
+        </tr>
+        <tr>
+          <td><a href="./record.html#2015touki">第39回関東学生冬季公認記録会</a></td>
+        </tr>
+      </table>
+      <table class="swim-table 2016">
+        <tr>
+          <th>2016年度競技結果</th>
+        </tr>
+        <tr>
+          <td><a href="./record.html#2016shunki">第26回関東学生春季公認記録会</a></td>
+        </tr>
+        <tr>
+          <td><a href="./record.html#2016rikousen">第60回東日本理工科系大学選手権水泳競技大会</a></td>
+        </tr>
+        <tr>
+          <td><a href="./record.html#2016toubu">第63回東地区国公立水泳競技大会</a></td>
+        </tr>
+        <tr>
+          <td><a href="./record.html#2016kaki">第30回関東学生夏季公認記録会</a></td>
+        </tr>
+        <tr>
+          <td><a href="./record.html#2016kankare">第89回関東学生選手権水泳競技大会</a></td>
+        </tr>
+        <tr>
+          <td><a href="./record.html#2016winter">第9回関東学生ウィンターカップ公認記録会</a></td>
+        </tr>
+        <tr>
+          <td><a href="./record.html#2016touki">第40回関東学生冬季公認記録会</a></td>
+        </tr>
+      </table>
+      <table class="swim-table 2017">
+        <tr>
+          <th>2017年度競技結果</th>
+        </tr>
+        <tr>
+          <td><a href="./record.html#2017shunki">第27回関東学生春季公認記録会</a></td>
+        </tr>
+        <tr>
+          <td><a href="./record.html#2017rikousen">第61回東日本理工科系大学選手権水泳競技大会</a></td>
+        </tr>
+        <tr>
+          <td><a href="./record.html#2017toubu">第64回東地区国公立水泳競技大会</a></td>
+        </tr>
+        <tr>
+          <td><a href="./record.html#2017kaki">第31回関東学生夏季公認記録会</a></td>
+        </tr>
+        <tr>
+          <td><a href="./record.html#2017kankare">第90回関東学生選手権水泳競技大会</a></td>
+        </tr>
+        <tr>
+          <td><a href="./record.html#2017winter">第10回関東学生ウィンターカップ公認記録会</a></td>
+        </tr>
+        <tr>
+          <td><a href="./record.html#2017touki">第41回関東学生冬季公認記録会</a></td>
+        </tr>
+      </table>
+      <table class="swim-table 2018">
+        <tr>
+          <th>2018年度競技結果</th>
+        </tr>
+        <tr>
+          <td><a href="./record.html#2018shunki">第28回関東学生春季公認記録会</a></td>
+        </tr>
+        <tr>
+          <td><a href="./record.html#2018rikousen">第62回東日本理工科系大学選手権水泳競技大会</a></td>
+        </tr>
+        <tr>
+          <td><a href="./record.html#2018toubu">第65回東地区国公立水泳競技大会</a></td>
+        </tr>
+        <tr>
+          <td><a href="./record.html#2018kaki">第32回関東学生夏季公認記録会</a></td>
+        </tr>
+        <tr>
+          <td><a href="./record.html#2018seed">第1回シード校オープン記録会</a></td>
+        </tr>
+        <tr>
+          <td><a href="./record.html#2018kankare">第91回関東学生選手権水泳競技大会</a></td>
+        </tr>
+        <tr>
+          <td><a href="./record.html#2018winter">第11回関東学生ウィンターカップ公認記録会</a></td>
+        </tr>
+        <tr>
+          <td><a href="./record.html#2018touki">第42回関東学生冬季公認記録会</a></td>
+        </tr>
+      </table>
+      <table class="swim-table 2019 show">
+        <tr>
+          <th>2019年度競技結果</th>
+        </tr>
+        <tr>
+          <td><a href="./record.html#2019shunki">第29回関東学生春季公認記録会</a></td>
+        </tr>
+        <tr>
+          <td><a href="./record.html#2019rikousen">第63回東日本理工科系大学選手権水泳競技大会</a></td>
+        </tr>
+        <tr>
+          <td><a href="./record.html#2019toubu">第66回東地区国公立水泳競技大会</a></td>
+        </tr>
+        <tr>
+          <td><a href="./record.html#2019kaki">第33回関東学生夏季公認記録会</a></td>
+        </tr>
+        <tr>
+          <td><a href="./record.html#2019challenge">第1回関東学生チャレンジ公認記録会</a></td>
+        </tr>
+        <tr>
+          <td><a href="./record.html#2019seed">第2回シード校オープン記録会</a></td>
+        </tr>
+        <tr>
+          <td><a href="./record.html#2019kankare">第92回関東学生選手権水泳競技大会</a></td>
+        </tr>
+        <tr>
+          <td><a href="./record.html#2019winter">第12回関東学生ウィンターカップ公認記録会</a></td>
+        </tr>
+        <tr>
+          <td><a href="./record.html#2019touki">第43回関東学生冬季公認記録会</a></td>
+        </tr>
+      </table>
+    </div>
+    <div class="waterpolo">
+      <h3>水球大会</h3>
+    </div>
   </div>
   <footer>
     <p><small>Copyright&copy 2019 燕水会 All Rights Reserved.</small></p>
   </footer>
+  <script src="./result-swimming.js"></script>
 </body>

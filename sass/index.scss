@@ -430,3 +430,30 @@ footer {
     color: #aaa;
   }
 }
+
+// result.html
+.main {
+  .swimming {
+    table {
+      border-collapse: collapse;
+      border-spacing: 0;
+      display: none;
+      line-height: 2;
+      border: 1px solid #000;
+      width: 100%;
+      background-color: #fff;
+      &.show {
+        display: table;
+      }
+      th {
+        text-align: left;
+        border-bottom: 1px solid #000;
+        padding-left: 10px;
+        background-color: #e3e3e3;
+      }
+      td {
+        padding-left: 10px;
+      }
+    }
+  }
+}

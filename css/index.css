@@ -233,4 +233,22 @@ footer {
   footer small {
     color: #aaa; }
 
+.main .swimming table {
+  border-collapse: collapse;
+  border-spacing: 0;
+  display: none;
+  line-height: 2;
+  border: 1px solid #000;
+  width: 100%;
+  background-color: #fff; }
+  .main .swimming table.show {
+    display: table; }
+  .main .swimming table th {
+    text-align: left;
+    border-bottom: 1px solid #000;
+    padding-left: 10px;
+    background-color: #e3e3e3; }
+  .main .swimming table td {
+    padding-left: 10px; }
+
 /*# sourceMappingURL=index.css.map */
