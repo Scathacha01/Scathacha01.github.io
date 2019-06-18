@@ -8,6 +8,10 @@ a {
 ul {
   list-style: none; }
 
+h3 {
+  border-left: 5px solid #0cf;
+  padding-left: 5px; }
+
 header {
   padding: 1px 30px 0;
   border-bottom: 1px solid #000;
