@@ -1,11 +1,90 @@
 body {
+  color: #333;
   background-image: url("http://titechswimteam.web.fc2.com/back.jpg"); }
+
+a {
+  text-decoration: none; }
+
+ul {
+  list-style: none; }
+
+header {
+  padding: 1px 30px 0;
+  border-bottom: 1px solid #000;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #fff; }
+  header .slide-trigger {
+    display: none; }
+  header .global-nav ul {
+    padding: 0;
+    display: flex;
+    justify-content: flex-end; }
+    header .global-nav ul li {
+      text-align: center;
+      width: 85px;
+      margin: 0 3px;
+      background-color: #e3e3e3;
+      line-height: 2; }
+      header .global-nav ul li.other {
+        display: none; }
+      header .global-nav ul li:nth-child(6) {
+        margin-right: 0; }
+      header .global-nav ul li a {
+        font-weight: bold;
+        display: block; }
+  @media screen and (max-width: 800px) {
+    header {
+      display: block; }
+      header .global-nav ul {
+        justify-content: center; }
+        header .global-nav ul li {
+          background-color: #fff;
+          border-right: 1px solid #666;
+          margin: 0;
+          width: calc(100% / 6); }
+          header .global-nav ul li:first-child {
+            border-left: 1px solid #666;
+            margin-left: 0; }
+          header .global-nav ul li:nth-child(6) {
+            margin-right: 0; } }
+  @media screen and (max-width: 600px) {
+    header {
+      padding: 0;
+      padding-top: 1px; }
+      header .title {
+        text-align: center; }
+      header .global-nav ul {
+        margin: 0;
+        display: flex;
+        flex-wrap: wrap;
+        width: 100%; }
+        header .global-nav ul li {
+          border: none;
+          width: calc(100% / 3);
+          box-sizing: border-box;
+          line-height: 2.5; }
+          header .global-nav ul li:first-child {
+            border: none; }
+          header .global-nav ul li:nth-child(n+1):nth-child(-n+3) {
+            border-top: 1px solid #ccc; }
+          header .global-nav ul li:nth-child(-n+3) {
+            border-bottom: 1px solid #ccc; }
+          header .global-nav ul li:nth-child(3n+1), header .global-nav ul li:nth-child(3n+2) {
+            border-right: 1px solid #ccc; }
+          header .global-nav ul li a {
+            font-weight: normal; } }
 
 .main {
   background-color: rgba(255, 255, 255, 0.7);
   padding: 20px 30px; }
   .main .page-title {
     border-bottom: 1px solid #000; }
+    .main .page-title::before {
+      font-family: "Font Awesome 5 Free";
+      content: '\f111';
+      font-weight: 400; }
   .main .img-box {
     text-align: center; }
     .main .img-box img {
@@ -131,5 +210,23 @@ body {
         content: ":";
         position: absolute;
         right: 0; }
+
+footer {
+  border-top: 1px solid #000;
+  text-align: center;
+  background-color: #fff;
+  padding-bottom: 1px; }
+  footer nav ul {
+    display: flex;
+    padding: 0;
+    justify-content: center; }
+    footer nav ul li {
+      border-left: 1px solid #e3e3e3;
+      padding: 0 10px;
+      font-size: 0.8em; }
+      footer nav ul li:first-child {
+        border: none; }
+  footer small {
+    color: #aaa; }
 
 /*# sourceMappingURL=index.css.map */
