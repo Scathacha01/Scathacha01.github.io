@@ -26,22 +26,31 @@ var open = [
   document.getElementsByClassName("open3")[0]
 ];
 
-var clickedIndex = -1;
+// .open-triggerをclickしたときに.is-openをtoggleする
+// それに伴ってアイコンも変更する
+function toggleIsOpen(num) {
+  var op = "is-open";
+  if (open[num].classList.contains(op)) {
+    open[num].classList.remove(op);
+    openTrigger[num].textContent = "+";
+  } else {
+    open[num].classList.add(op);
+    openTrigger[num].textContent = "-";
+
+  }
+}
+
 // clickされた要素の直下のulを展開
 // すでに展開されているとき縮小（？）
 openTrigger[0].addEventListener("click", function() {
-  clickedIndex = 0;
-  open[clickedIndex].classList.toggle("is-open");
+  toggleIsOpen(0);
 });
 openTrigger[1].addEventListener("click", function() {
-  clickedIndex = 1;
-  open[clickedIndex].classList.toggle("is-open");
+  toggleIsOpen(1);
 });
 openTrigger[2].addEventListener("click", function() {
-  clickedIndex = 2;
-  open[clickedIndex].classList.toggle("is-open");
+  toggleIsOpen(2);
 });
 openTrigger[3].addEventListener("click", function() {
-  clickedIndex = 3;
-  open[clickedIndex].classList.toggle("is-open");
+  toggleIsOpen(3);
 });
