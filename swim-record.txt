@@ -1,471 +1,111 @@
 
-<tr class="2012touki">
-  <td>角田</td>
-  <td>勇人</td>
-  <td>50Fr</td>
-  <td>29.24</td>
-  <td>短水路</td>
-  <td>2012</td>
-  <td>冬季</td>
-  <td>相模原</td>
-</tr>
-<tr class="2012touki">
-  <td>大垣</td>
-  <td>宏介</td>
-  <td>50Fr</td>
-  <td>29.09</td>
-  <td>短水路</td>
-  <td>2012</td>
-  <td>冬季</td>
-  <td>相模原</td>
-</tr>
-<tr class="2012touki">
-  <td>田中</td>
-  <td>功太郎</td>
-  <td>50Fr</td>
-  <td>28.93</td>
-  <td>短水路</td>
-  <td>2012</td>
-  <td>冬季</td>
-  <td>相模原</td>
-</tr>
-<tr class="2012touki">
-  <td>吉田</td>
-  <td>和史</td>
-  <td>50Fr</td>
-  <td>27.55</td>
-  <td>短水路</td>
-  <td>2012</td>
-  <td>冬季</td>
-  <td>相模原</td>
-</tr>
-<tr class="2012touki">
-  <td>三浦</td>
-  <td>正輝</td>
-  <td>50Fr</td>
-  <td>26.73</td>
-  <td>短水路</td>
-  <td>2012</td>
-  <td>冬季</td>
-  <td>相模原</td>
-</tr>
-<tr class="2012touki">
-  <td>西井</td>
-  <td>大亮</td>
-  <td>50Fr</td>
-  <td>26.87</td>
-  <td>短水路</td>
-  <td>2012</td>
-  <td>冬季</td>
-  <td>相模原</td>
-</tr>
-<tr class="2012touki">
-  <td>北川</td>
-  <td>冬航</td>
-  <td>50Fr</td>
-  <td>27.49</td>
-  <td>短水路</td>
-  <td>2012</td>
-  <td>冬季</td>
-  <td>相模原</td>
-</tr>
-<tr class="2012touki">
-  <td>大貫</td>
-  <td>和正</td>
-  <td>50Fr</td>
-  <td>26.83</td>
-  <td>短水路</td>
-  <td>2012</td>
-  <td>冬季</td>
-  <td>相模原</td>
-</tr>
-<tr class="2012touki">
-  <td>坪川</td>
-  <td>大将</td>
-  <td>50Fr</td>
-  <td>26.65</td>
-  <td>短水路</td>
-  <td>2012</td>
-  <td>冬季</td>
-  <td>相模原</td>
-</tr>
-<tr class="2012touki">
-  <td>藤岡</td>
-  <td>健</td>
-  <td>50Fr</td>
-  <td>26.26</td>
-  <td>短水路</td>
-  <td>2012</td>
-  <td>冬季</td>
-  <td>相模原</td>
-</tr>
-<tr class="2012touki">
-  <td>渡辺</td>
-  <td>基</td>
-  <td>50Fr</td>
-  <td>25.32</td>
-  <td>短水路</td>
-  <td>2012</td>
-  <td>冬季</td>
-  <td>相模原</td>
-</tr>
-<tr class="2012touki">
-  <td>境野</td>
-  <td>瑞希</td>
-  <td>50Fr</td>
-  <td>25.40</td>
-  <td>短水路</td>
-  <td>2012</td>
-  <td>冬季</td>
-  <td>相模原</td>
-</tr>
-<tr class="2012touki">
-  <td>濱島</td>
-  <td>大輝</td>
-  <td>50Fr</td>
-  <td>24.54</td>
-  <td>短水路</td>
-  <td>2012</td>
-  <td>冬季</td>
-  <td>相模原</td>
-</tr>
-<tr class="2012touki">
-  <td>塩野</td>
-  <td>入諒</td>
-  <td>100Fr</td>
-  <td>1:09.53</td>
-  <td>短水路</td>
-  <td>2012</td>
-  <td>冬季</td>
-  <td>相模原</td>
-</tr>
-<tr class="2012touki">
-  <td>北川</td>
-  <td>冬航</td>
-  <td>100Fr</td>
-  <td>59.69</td>
-  <td>短水路</td>
-  <td>2012</td>
-  <td>冬季</td>
-  <td>相模原</td>
-</tr>
-<tr class="2012touki">
-  <td>坪川</td>
-  <td>大将</td>
-  <td>100Fr</td>
-  <td>58.66</td>
-  <td>短水路</td>
-  <td>2012</td>
-  <td>冬季</td>
-  <td>相模原</td>
-</tr>
-<tr class="2012touki">
-  <td>西井</td>
-  <td>大亮</td>
-  <td>100Fr</td>
-  <td>58.81</td>
-  <td>短水路</td>
-  <td>2012</td>
-  <td>冬季</td>
-  <td>相模原</td>
-</tr>
-<tr class="2012touki">
-  <td>渡辺</td>
-  <td>基</td>
-  <td>100Fr</td>
-  <td>56.82</td>
-  <td>短水路</td>
-  <td>2012</td>
-  <td>冬季</td>
-  <td>相模原</td>
-</tr>
-<tr class="2012touki">
-  <td>藤岡</td>
-  <td>健</td>
-  <td>100Fr</td>
-  <td>56.95</td>
-  <td>短水路</td>
-  <td>2012</td>
-  <td>冬季</td>
-  <td>相模原</td>
-</tr>
-<tr class="2012touki">
-  <td>境野</td>
-  <td>瑞希</td>
-  <td>100Fr</td>
-  <td>54.74</td>
-  <td>短水路</td>
-  <td>2012</td>
-  <td>冬季</td>
-  <td>相模原</td>
-</tr>
-<tr class="2012touki">
-  <td>濱島</td>
-  <td>大輝</td>
-  <td>100Fr</td>
-  <td>54.25</td>
-  <td>短水路</td>
-  <td>2012</td>
-  <td>冬季</td>
-  <td>相模原</td>
-</tr>
-<tr class="2012touki">
-  <td>吉田</td>
-  <td>和史</td>
-  <td>200Fr</td>
-  <td>2:19.39</td>
-  <td>短水路</td>
-  <td>2012</td>
-  <td>冬季</td>
-  <td>相模原</td>
-</tr>
-<tr class="2012touki">
-  <td>大垣</td>
-  <td>宏介</td>
-  <td>200Fr</td>
-  <td>2:24.01</td>
-  <td>短水路</td>
-  <td>2012</td>
-  <td>冬季</td>
-  <td>相模原</td>
-</tr>
-<tr class="2012touki">
-  <td>田中</td>
-  <td>功太郎</td>
-  <td>200Fr</td>
-  <td>2:23.64</td>
-  <td>短水路</td>
-  <td>2012</td>
-  <td>冬季</td>
-  <td>相模原</td>
-</tr>
-<tr class="2012touki">
-  <td>藤岡</td>
-  <td>健</td>
-  <td>200Fr</td>
-  <td>2:08.42</td>
-  <td>短水路</td>
-  <td>2012</td>
-  <td>冬季</td>
-  <td>相模原</td>
-</tr>
-<tr class="2012touki">
-  <td>松田</td>
-  <td>陵</td>
-  <td>400Fr</td>
-  <td>4:46.44</td>
-  <td>短水路</td>
-  <td>2012</td>
-  <td>冬季</td>
-  <td>相模原</td>
-</tr>
-<tr class="2012touki">
-  <td>上見</td>
-  <td>光栄</td>
-  <td>50Ba</td>
-  <td>31.09</td>
-  <td>短水路</td>
-  <td>2012</td>
-  <td>冬季</td>
-  <td>相模原</td>
-</tr>
-<tr class="2012touki">
-  <td>朝日</td>
-  <td>達哉</td>
-  <td>50Ba</td>
-  <td>28.00</td>
-  <td>短水路</td>
-  <td>2012</td>
-  <td>冬季</td>
-  <td>相模原</td>
-</tr>
-<tr class="2012touki">
-  <td>朝日</td>
-  <td>達哉</td>
-  <td>100Ba</td>
-  <td>59.39</td>
-  <td>短水路</td>
-  <td>2012</td>
-  <td>冬季</td>
-  <td>相模原</td>
-</tr>
-<tr class="2012touki">
-  <td>角田</td>
-  <td>勇人</td>
-  <td>50Br</td>
-  <td>34.71</td>
-  <td>短水路</td>
-  <td>2012</td>
-  <td>冬季</td>
-  <td>相模原</td>
-</tr>
-<tr class="2012touki">
-  <td>森岡</td>
-  <td>英樹</td>
-  <td>50Br</td>
-  <td>29.05</td>
-  <td>短水路</td>
-  <td>2012</td>
-  <td>冬季</td>
-  <td>相模原</td>
-</tr>
-<tr class="2012touki">
-  <td>角田</td>
-  <td>勇人</td>
-  <td>100Br</td>
-  <td>1:17.21</td>
-  <td>短水路</td>
-  <td>2012</td>
-  <td>冬季</td>
-  <td>相模原</td>
-</tr>
-<tr class="2012touki">
-  <td>森岡</td>
-  <td>英樹</td>
-  <td>100Br</td>
-  <td>1:02.75</td>
-  <td>短水路</td>
-  <td>2012</td>
-  <td>冬季</td>
-  <td>相模原</td>
-</tr>
-<tr class="2012touki">
-  <td>渡辺</td>
-  <td>汀</td>
-  <td>50Fly</td>
-  <td>25.90</td>
-  <td>短水路</td>
-  <td>2012</td>
-  <td>冬季</td>
-  <td>相模原</td>
-</tr>
-<tr class="2012touki">
-  <td>大貫</td>
-  <td>和正</td>
-  <td>100Fly</td>
-  <td>1:04.01</td>
-  <td>短水路</td>
-  <td>2012</td>
-  <td>冬季</td>
-  <td>相模原</td>
-</tr>
-<tr class="2012touki">
-  <td>三浦</td>
-  <td>正輝</td>
-  <td>100Fly</td>
-  <td>1:00.34</td>
-  <td>短水路</td>
-  <td>2012</td>
-  <td>冬季</td>
-  <td>相模原</td>
-</tr>
-<tr class="2012touki">
-  <td>渡辺</td>
-  <td>汀</td>
-  <td>100Fly</td>
-  <td>57.25</td>
-  <td>短水路</td>
-  <td>2012</td>
-  <td>冬季</td>
-  <td>相模原</td>
-</tr>
-<tr class="2012touki">
-  <td>大貫</td>
-  <td>和正</td>
-  <td>200Fly</td>
-  <td>2:29.27</td>
-  <td>短水路</td>
-  <td>2012</td>
-  <td>冬季</td>
-  <td>相模原</td>
-</tr>
-<tr class="2012touki">
-  <td>田中</td>
-  <td>麻理子</td>
-  <td>50Fr</td>
-  <td>33.77</td>
-  <td>短水路</td>
-  <td>2012</td>
-  <td>冬季</td>
-  <td>相模原</td>
-</tr>
-<tr class="2012touki">
-  <td>佐竹</td>
-  <td>晴香</td>
-  <td>50Fr</td>
-  <td>32.53</td>
-  <td>短水路</td>
-  <td>2012</td>
-  <td>冬季</td>
-  <td>相模原</td>
-</tr>
-<tr class="2012touki">
-  <td>稲場</td>
-  <td>愛</td>
-  <td>50Fr</td>
-  <td>34.95</td>
-  <td>短水路</td>
-  <td>2012</td>
-  <td>冬季</td>
-  <td>相模原</td>
-</tr>
-<tr class="2012touki">
-  <td>宮下</td>
-  <td>瞳</td>
-  <td>50Fr</td>
-  <td>30.76</td>
-  <td>短水路</td>
-  <td>2012</td>
-  <td>冬季</td>
-  <td>相模原</td>
-</tr>
-<tr class="2012touki">
-  <td>田中</td>
-  <td>麻理子</td>
-  <td>100Fr</td>
-  <td>1:15.96</td>
-  <td>短水路</td>
-  <td>2012</td>
-  <td>冬季</td>
-  <td>相模原</td>
-</tr>
-<tr class="2012touki">
-  <td>中井</td>
-  <td>祐賀子</td>
-  <td>100Fr</td>
-  <td>1:12.00</td>
-  <td>短水路</td>
-  <td>2012</td>
-  <td>冬季</td>
-  <td>相模原</td>
-</tr>
-<tr class="2012touki">
-  <td>宮下</td>
-  <td>瞳</td>
-  <td>400Fr</td>
-  <td>5:08.93</td>
-  <td>短水路</td>
-  <td>2012</td>
-  <td>冬季</td>
-  <td>相模原</td>
-</tr>
-<tr class="2012touki">
-  <td>稲場</td>
-  <td>愛</td>
-  <td>50Fr</td>
-  <td>42.32</td>
-  <td>短水路</td>
-  <td>2012</td>
-  <td>冬季</td>
-  <td>相模原</td>
-</tr>
-<tr class="2012touki">
-  <td>佐竹</td>
-  <td>晴香</td>
-  <td>100Br</td>
-  <td>1:26.57</td>
-  <td>短水路</td>
-  <td>2012</td>
-  <td>冬季</td>
-  <td>相模原</td>
-</tr>
+男子　50m　自由形
+タイム決勝13組
+コース	氏　　　名	所　　　属	学年	順位	記　　録	　	備考
+
+男子　100m　自由形
+タイム決勝7組
+コース	氏　　　名	所　　　属	学年	順位	記　　録	　	備考
+
+男子　200m　自由形
+タイム決勝4組
+コース	氏　　　名	所　　　属	学年	順位	記　　録	　	備考
+タイム決勝5組
+コース	氏　　　名	所　　　属	学年	順位	記　　録	　	備考
+
+男子　1500m　自由形
+タイム決勝2組
+コース	氏　　　名	所　　　属	学年	順位	記　　録	　	備考
+
+男子　100m　背泳ぎ
+タイム決勝2組
+コース	氏　　　名	所　　　属	学年	順位	記　　録	　	備考
+タイム決勝3組
+コース	氏　　　名	所　　　属	学年	順位	記　　録	　	備考
+
+男子　200m　背泳ぎ
+タイム決勝2組
+コース	氏　　　名	所　　　属	学年	順位	記　　録	　	備考
+4	上見光栄 	東京工業大	大学 4	1	2:30.47	R	 
+タイム決勝3組
+コース	氏　　　名	所　　　属	学年	順位	記　　録	　	備考
+
+男子　100m　平泳ぎ
+タイム決勝3組
+コース	氏　　　名	所　　　属	学年	順位	記　　録	　	備考
+6	高峰翠 	東京工業大	大学 4	2	1:25.45	R	 
+タイム決勝5組
+コース	氏　　　名	所　　　属	学年	順位	記　　録	　	備考
+2	上見光栄 	東京工業大	大学 4	2	1:18.63	R	 
+タイム決勝6組
+コース	氏　　　名	所　　　属	学年	順位	記　　録	　	備考
+タイム決勝11組
+コース	氏　　　名	所　　　属	学年	順位	記　　録	　	備考
+
+男子　200m　平泳ぎ
+タイム決勝4組
+コース	氏　　　名	所　　　属	学年	順位	記　　録	　	備考
+
+男子　100m　バタフライ
+タイム決勝2組
+コース	氏　　　名	所　　　属	学年	順位	記　　録	　	備考
+
+男子　200m　個人メドレー
+タイム決勝3組
+コース	氏　　　名	所　　　属	学年	順位	記　　録	　	備考
+タイム決勝4組
+コース	氏　　　名	所　　　属	学年	順位	記　　録	　	備考
+タイム決勝8組
+コース	氏　　　名	所　　　属	学年	順位	記　　録	　	備考
+
+男子　200m　フリーリレー
+タイム決勝3組
+コース	氏　　　名	チーム名	順位	記　　録	備考
+3	1. 森岡英樹
+2. 松田陵
+3. 吉田和史
+4. 朝日達哉	東京工業大	5	1:47.14
+
+男子　200m　メドレーリレー
+タイム決勝3組
+コース	氏　　　名	チーム名	順位	記　　録	備考
+4	1. 上見光栄
+2. 森岡英樹
+3. 朝日達哉
+4. 松田陵	東京工業大	5	1:58.31
+
+女子　50m　自由形
+タイム決勝1組
+コース	氏　　　名	所　　　属	学年	順位	記　　録	　	備考
+タイム決勝4組
+
+
+
+コース	氏　　　名	所　　　属	学年	順位	記　　録	　	備考
+
+
+
+タイム決勝7組
+コース	氏　　　名	所　　　属	学年	順位	記　　録	　	備考
+
+
+
+
+女子　100m　自由形
+タイム決勝3組
+コース	氏　　　名	所　　　属	学年	順位	記　　録	　	備考
+
+
+
+
+女子　200m　自由形
+タイム決勝3組
+コース	氏　　　名	所　　　属	学年	順位	記　　録	　	備考
+
+女子　100m　背泳ぎ
+タイム決勝3組
+コース	氏　　　名	所　　　属	学年	順位	記　　録	　	備考
+
+女子　200m　個人メドレー
+タイム決勝2組
+コース	氏　　　名	所　　　属	学年	順位	記　　録	　	備考
