@@ -39,7 +39,8 @@ function andSearch(opt) {
   }
 }
 
-document.addEventListener("DOMContentLoaded", function() {
+// モジュール化
+function showRecord() {
   var indexItem = document.getElementsByClassName("index");
   var nameList = document.getElementsByClassName("name-list")[0];
   var searchOpts = document.getElementsByClassName("search-opts")[0];
@@ -107,4 +108,7 @@ document.addEventListener("DOMContentLoaded", function() {
       }
     }
   });
+}
+document.addEventListener("DOMContentLoaded", function() {
+  showRecord();
 });
