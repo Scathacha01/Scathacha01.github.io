@@ -1,3 +1,20 @@
+$breakpoints: (
+  // for smart phone
+  // not used
+  'sm': 400px,
+  // for tablet
+  'tb': 800px,
+  // for PC
+  'pc': 1200px,
+);
+
+// media query
+@mixin mq($bp) {
+  @media screen and (max-width: #{map-get($breakpoints, $bp)}) {
+    @content;
+  }
+}
+
 .show {
   display: table-row;
 }
@@ -8,6 +25,12 @@ tbody tr {
 
 .flex-box-record {
   display: flex;
+}
+
+@include mq("tb") {
+  .flex-box-record {
+    display: block;
+  }
 }
 
 .name-list {
@@ -51,12 +74,22 @@ tbody tr {
     }
   }
 }
+
+@include mq("tb") {
+  .name-list {
+    width: 100%;
+  }
+}
 .search-opts {
   width: 160px;
   border: 1px solid #000;
   border-radius: 5px;
   background-color: #fff;
   box-sizing: border-box;
+  span {
+    color: red;
+    font-size: 0.7em;
+  }
   .exp {
     padding: 0 10px;
   }
@@ -70,9 +103,18 @@ tbody tr {
       width: 140px;
       box-sizing: border-box;
     }
-    span {
-      color: red;
-      font-size: 0.7em;
+  }
+}
+
+@include mq("tb") {
+  .search-opts {
+    margin-bottom: 20px;
+    width: 100%;
+    width: auto;
+    form {
+      select{
+        width: auto;
+      }
     }
   }
 }
@@ -110,4 +152,8 @@ tbody tr {
       }
     }
   }
+}
+
+.alart {
+  padding-top: 20px;
 }

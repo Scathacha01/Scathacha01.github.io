@@ -249,7 +249,8 @@ header {
           border-radius: 8px;
           overflow: hidden;
           line-height: 2.5;
-          width: calc(100vw - 40px - 300px);
+          margin-right: 20px;
+          width: 100%;
           tr:first-child {
             background-color: #e3e3e3;
             border-radius: 8px;
@@ -276,6 +277,17 @@ header {
               }
             }
           }
+        }
+      }
+    }
+    @include mq('tb') {
+      display: block;
+      .news {
+        padding-bottom: 20px;
+        table {
+          margin: 0;
+          width: 100%;
+          box-sizing: border-box;
         }
       }
     }
@@ -332,10 +344,10 @@ header {
     overflow: hidden;
     padding: 0;
     line-height: 2;
-    width: 30%;
+    width: 160px;
     margin-right: 20px;
     li {
-      position: relative;
+    position: relative;
       background-color: #e3e3e3;
       border-bottom: 1px solid #fff;
       border-right: 1px solid #000;
@@ -391,6 +403,14 @@ header {
   }
   .flex-box-member1 {
     display: flex;
+  }
+  @include mq('tb') {
+    .members {
+      width: 100%;
+    }
+    .flex-box-member1 {
+      display: block;
+    }
   }
   .member {
     .name {

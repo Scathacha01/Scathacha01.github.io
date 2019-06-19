@@ -7,6 +7,9 @@ tbody tr {
 .flex-box-record {
   display: flex; }
 
+@media screen and (max-width: 800px) {
+  .flex-box-record {
+    display: block; } }
 .name-list {
   margin-right: 30px;
   box-sizing: border-box;
@@ -40,12 +43,18 @@ tbody tr {
           background-color: #fff;
           border-bottom: 1px solid #e3e3e3; }
 
+@media screen and (max-width: 800px) {
+  .name-list {
+    width: 100%; } }
 .search-opts {
   width: 160px;
   border: 1px solid #000;
   border-radius: 5px;
   background-color: #fff;
   box-sizing: border-box; }
+  .search-opts span {
+    color: red;
+    font-size: 0.7em; }
   .search-opts .exp {
     padding: 0 10px; }
   .search-opts form {
@@ -56,10 +65,14 @@ tbody tr {
     .search-opts form select {
       width: 140px;
       box-sizing: border-box; }
-    .search-opts form span {
-      color: red;
-      font-size: 0.7em; }
 
+@media screen and (max-width: 800px) {
+  .search-opts {
+    margin-bottom: 20px;
+    width: 100%;
+    width: auto; }
+    .search-opts form select {
+      width: auto; } }
 .time-record table {
   border: 1px solid #000;
   line-height: 1.75;
@@ -84,5 +97,8 @@ tbody tr {
     background-color: #fff; }
     .time-record table tbody td {
       text-align: center; }
+
+.alart {
+  padding-top: 20px; }
 
 /*# sourceMappingURL=time-record.css.map */

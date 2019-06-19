@@ -114,7 +114,8 @@ header {
       border-radius: 8px;
       overflow: hidden;
       line-height: 2.5;
-      width: calc(100vw - 40px - 300px); }
+      margin-right: 20px;
+      width: 100%; }
       .main .flex-box .main-column .news table tr:first-child {
         background-color: #e3e3e3;
         border-radius: 8px; }
@@ -132,6 +133,15 @@ header {
         .main .flex-box .main-column .news table tr:last-child td:first-child,
         .main .flex-box .main-column .news table tr:last-child td:last-child {
           border: none; }
+    @media screen and (max-width: 800px) {
+      .main .flex-box {
+        display: block; }
+        .main .flex-box .news {
+          padding-bottom: 20px; }
+          .main .flex-box .news table {
+            margin: 0;
+            width: 100%;
+            box-sizing: border-box; } }
 
 .main .man,
 .main .woman,
@@ -162,7 +172,7 @@ header {
   overflow: hidden;
   padding: 0;
   line-height: 2;
-  width: 30%;
+  width: 160px;
   margin-right: 20px; }
   .main .members li {
     position: relative;
@@ -207,6 +217,11 @@ header {
           border-radius: 0; }
 .main .flex-box-member1 {
   display: flex; }
+@media screen and (max-width: 800px) {
+  .main .members {
+    width: 100%; }
+  .main .flex-box-member1 {
+    display: block; } }
 .main .member .name {
   border-left: 5px solid #0cf;
   padding-left: 5px; }

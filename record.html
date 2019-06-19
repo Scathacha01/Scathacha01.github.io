@@ -32,6 +32,7 @@
   </header>
   <div class="main">
     <h2 class="page-title">競泳記録一覧</h2>
+    <p>※現在更新中です</p>
     <div class="flex-box-record">
       <div>
         <div class="name-list">
@@ -216,11 +217,12 @@
           </ul>
         </div>
         <div class="search-opts">
-          <p class="exp">以下で絞り込みが可能です。</p>
+          <p class="exp">以下で絞り込みが可能です。<br>
+          <span>※お手数ですが試合結果がすべて非表示になった際は、もう一度名前の選択からやり直してください。</span></p>
           <form action="" method="" name="search_opt1">
             <p>開催年<br>
               <select size="1" name="year">
-                <option value=""></option>
+                <option value="" selected></option>
                 <option value="2010">2010</option>
                 <option value="2011">2011</option>
                 <option value="2012">2012</option>
@@ -230,25 +232,28 @@
                 <option value="2016">2016</option>
                 <option value="2017">2017</option>
                 <option value="2018">2018</option>
+                <option value="2019">2019</option>
               </select>
             </p>
             <p>大会名<br>
               <select size="1" name="compe">
-                <option value=""></option>
+                <option value="" selected></option>
                 <option value="kankare">関東学生春季公認記録会</option>
                 <option value="rikousen">東日本理工科系大学選手権水泳競技大会</option>
                 <option value="toubu">東部地区国公立大学選手権水泳競技大会</option>
                 <option value="kaki">関東学生夏季公認記録会</option>
+                <option value="open">第1回関東学生チャレンジ公認記録会</option>
+                <option value="seed">第2回シード校オープン記録会</option>
                 <option value="winter">関東学生ウィンターカップ公認記録会</option>
                 <option value="touki">関東学生冬季公認記録会</option>
               </select>
             </p>
-            <span>※開催年、大会名ともに選択してください</span>
+            <p><span>※開催年、大会名ともに選択してください</span></p>
           </form>
           <form action="" method="" name="search_opt2">
             <p>種目<br>
               <select size="1" name="style">
-                <option value=""></option>
+                <option value="" selected></option>
                 <option value="Fr">自由形</option>
                 <option value="Ba">背泳ぎ</option>
                 <option value="Br">平泳ぎ</option>
@@ -258,7 +263,7 @@
             </p>
             <p>距離<br>
               <select size="1" name="dist">
-                <option value=""></option>
+                <option value="" selected></option>
                 <option value="50">50</option>
                 <option value="100">100</option>
                 <option value="200">200</option>
@@ -267,12 +272,12 @@
                 <option value="1500">1500</option>
               </select>
             </p>
-            <span>※距離、種目ともに選択してください</span>
+            <p><span>※距離、種目ともに選択してください</span></p>
           </form>
           <form action="" method="" name="search_opt3">
             <p>長水路短水路<br>
               <select size="1" name="len">
-                <option value=""></option>
+                <option value="" selected></option>
                 <option value="long">長水路</option>
                 <option value="short">短水路</option>
               </select>
@@ -280,7 +285,7 @@
           </form>
         </div>
       </div>
-      <div class="time-record" id="record-top">
+      <div class="time-record">
         <table>
           <thead>
             <tr>
@@ -14890,6 +14895,7 @@
         </table>
       </div>
     </div>
+    <p class="alart">※スマホをご利用の方は横持ちにすることをお勧めします。</p>
   </div>
   <footer>
     <nav>
