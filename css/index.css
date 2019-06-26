@@ -168,53 +168,35 @@ header {
   line-height: 2; }
 
 .main .members {
+  border: 1px solid #000;
+  margin-right: 20px;
+  box-sizing: border-box;
   border-radius: 5px;
   overflow: hidden;
-  padding: 0;
   line-height: 2;
-  width: 160px;
-  margin-right: 20px; }
-  .main .members li {
-    position: relative;
-    background-color: #e3e3e3;
-    border-bottom: 1px solid #fff;
-    border-right: 1px solid #000;
-    border-left: 1px solid #000; }
-    .main .members li .grade {
-      padding: 0 10px; }
-    .main .members li:first-child {
-      border-top: 1px solid #000;
-      border-top-left-radius: 5px;
-      border-top-right-radius: 5px; }
-    .main .members li:last-child {
-      border-bottom: 1px solid #000;
-      border-bottom-left-radius: 5px;
-      border-bottom-right-radius: 5px; }
-      .main .members li:last-child ul li:last-child {
-        border-bottom-left-radius: 5px;
-        border-bottom-right-radius: 5px; }
-    .main .members li .open-trigger0,
-    .main .members li .open-trigger1,
-    .main .members li .open-trigger2,
-    .main .members li .open-trigger3 {
-      position: absolute;
-      right: 10px; }
-    .main .members li ul {
-      display: none;
-      padding: 0; }
-      .main .members li ul.is-open {
-        display: block; }
-      .main .members li ul li {
-        padding: 0 10px;
-        background-color: #fff;
-        border: none;
-        border-bottom: 1px solid #e3e3e3; }
-        .main .members li ul li:first-child {
-          border-top: none;
-          border-radius: 0; }
-        .main .members li ul li:last-child {
-          border-bottom: none;
-          border-radius: 0; }
+  width: 160px; }
+  .main .members ul {
+    padding: 0;
+    margin: 0; }
+    .main .members ul li {
+      position: relative;
+      background-color: #e3e3e3;
+      border-bottom: 1px solid #fff; }
+      .main .members ul li:last-child {
+        border: none; }
+      .main .members ul li .grade {
+        padding: 0 10px; }
+      .main .members ul li .open-trigger {
+        position: absolute;
+        right: 10px; }
+      .main .members ul li ul {
+        display: none; }
+        .main .members ul li ul.is-open {
+          display: block; }
+        .main .members ul li ul li {
+          padding: 0 10px;
+          background-color: #fff;
+          border-bottom: 1px solid #e3e3e3; }
 .main .flex-box-member1 {
   display: flex; }
 @media screen and (max-width: 800px) {
